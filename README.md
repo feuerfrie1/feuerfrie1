@@ -1,14 +1,3 @@
-# 💫 About Me:
-Hi there! My name is Artem, im 27 y.o.
-
-Im started to get acquainted with web-dev when i was about 14 y.o. or something.
-
-At that time, I used Ucoz and used pre-made templates. I just changed some styles and images and felt proud of my work.  I was not yet aware of how much I did not know and where this would lead me.
-
-To date, I possess a professional education in the field of programming. I have taken courses in web development and React. I have completed 5 pet-projects and 2 commercial projects.
-My technology stack and projects u can find on my github page. However, this is not the end, as I continue to work and am always seeking new and interesting projects to work on.
-
-
 ## 🌐 Socials:    
 [![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/godplzstopme)
 
